@@ -16,10 +16,13 @@
 
 <picture> <img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWlzMTdpem5nZWY3Z2ZuOTVwMHN0bXVzM3ZtYm55bjZ5bzcxeWd4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.webp" width = 220px></picture>
 
-I am an economist passionate about data analysis and business intelligence.
+I am an economist with experience in finance and a specialization in data analysis and business intelligence.
 
-I focus on data visualization; transform data into valuable information for decision making; optimize processes and provide business solutions.
+I am trained in financial analysis, with skills in interpreting financial ratios, preparing cash flow projections, asset valuation, and analyzing investments and financial instruments. I have experience in data modeling and analysis, including the development of predictive models, as well as statistical and econometric analysis.
 
+I possess programming and automation skills using tools like Python, SQL, and Tableau for data management and visualization, as well as specialized software such as Stata, EViews, and Bloomberg Terminal. I stand out for my ability to manage large datasets, transform them into actionable insights, and conduct behavioral analysis, customer segmentation, and the optimization of campaigns and processes.
+
+My professional goal is to contribute to the success of data analysis and business intelligence projects through the processing, analysis, and visualization of data, providing strategic value for informed decision-making.
 <br>
 
 ## 🛠️ My Skills
